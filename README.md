@@ -34,6 +34,7 @@
 - Copy Trading Bot
 - Raydium Swap Parser
 - Jupiter Swap Parser
+- Orca Swap Parser
 - Websocket implementation using Geyser
 
 ## 📰 My Technologies

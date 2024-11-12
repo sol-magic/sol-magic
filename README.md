@@ -12,6 +12,12 @@
 
 - Pump.fun forking bonding curve smart contract(Raydium CPI + Meteora CPI)
 - Token / NFT Presale Smart Contract
+- NFT marketplace
+- NFT / Token Staking
+- Social Fi
+- Casino
+- GameFi
+***** Traing Bots *****
 - Raydium Sniper Bot
 - Pump.fun Sniper Bot
 - Solana Telegram Trading Bot

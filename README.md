@@ -3,7 +3,7 @@
 ## A Few things about me
 
 - 💻 I'm self taught web developer, from Georgia 📍
-- 🕸️ I love Solana and other blockchains
+- 🕸️ I love Solana and other blockchains(Eth, Btc, Sui, Cardano)
 - 🤝 I like to meet people similar to me 
 - 🏏 I like to play and watch football in free time
 - 🤓 I always excited about learning new technologies 
@@ -27,10 +27,17 @@
 - Raydium Swap Parser
 - Jupiter Swap Parser
 - Websocket implementation using Geyser
-<!-- - [Dev.tools](https://github.com/sabeerbikba/dev.tools)
-- [Next.js](https://github.com/vercel/next.js)
-- [Dexie.js](https://github.com/dexie/Dexie.js) -->
 
+## 📰 My Technologies
+
+- Rust / Anchor
+- Python / Django / Fastapi / Flask
+- Node.js / Nest.js / TypeScript / Express
+- React / Next.js / Tailwind / Styled Components / Svelte
+- GoLang
+- MoveLang
+- MongoDB / PostgreSQL / MySQL / Sqlite / Supabase/ Firebase
+- AWS S3, EC2, DynamoDB, RDs, Route53
 
 ## 📈 GitHub Stats
 <!-- <p align="center">

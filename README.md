@@ -2,7 +2,7 @@
 
 ## A Few things about me
 
-- 💻 I'm self taught web developer, from Georgia 📍
+- 💻 I'm a Software Engineer, from Georgia 📍
 - 🕸️ I love Solana and other blockchains(Eth, Btc, Sui, Cardano)
 - 🤝 I like to meet people similar to me 
 - 🏏 I like to play and watch football in free time

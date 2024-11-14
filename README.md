@@ -22,6 +22,7 @@
 ***** Traing Bots *****
 - Raydium Sniper Bot
 - Pump.fun Sniper Bot
+- MEV Bot (Only available with validator node)
 - Solana Telegram Trading Bot
 - Pump.fun Token launcher with jito bundler
 - Raydium Token launcher with jito bundler

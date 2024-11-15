@@ -28,8 +28,8 @@
 - [Raydium Token launcher with jito bundler](https://github.com/sol-magic/Solana-Raydium-Bundler)
 - [Meteora Token launcher with jito bundler](https://github.com/sol-magic/Solana-Meteora-Bundler)
 - [Raydium Volume Bot(v1, v2)](https://github.com/sol-magic/solana-raydium-volume-bot)
-- Pump.fun Volume Bot(v1, v2)
-- Meteora Volume Bot(v1, v2)
+- (Pump.fun Volume Bot(v1, v2))[https://github.com/sol-magic/Pumpfun-Volume-Bot]
+- (Meteora Volume Bot(v1, v2))[https://github.com/sol-magic/Meteora-Volume-Bot]
 - Raydium Market Maker Bot
 - Pump.fun Market Maker Bot
 - Copy Trading Bot

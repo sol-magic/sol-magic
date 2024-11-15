@@ -30,6 +30,7 @@
 - [Raydium Volume Bot(v1, v2)](https://github.com/sol-magic/solana-raydium-volume-bot)
 - [Pump.fun Volume Bot(v1, v2)](https://github.com/sol-magic/Pumpfun-Volume-Bot)
 - [Meteora Volume Bot(v1, v2)](https://github.com/sol-magic/Meteora-Volume-Bot)
+- Arbitrage Trading Bot (Only available with validator or yellowstone RPC)
 - Raydium Market Maker Bot
 - Pump.fun Market Maker Bot
 - Copy Trading Bot

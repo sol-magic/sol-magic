@@ -10,8 +10,8 @@
 
 ## 📰 My Favorite Projects
 
-- Pump.fun forking bonding curve smart contract(Raydium CPI + Meteora CPI)
-- Token / NFT Presale Smart Contract
+- [Pump.fun forking bonding curve smart contract(Raydium CPI + Meteora CPI)](https://github.com/sol-magic/pumpfun-smart-contract)
+- [Token / NFT Presale Smart Contract](https://github.com/sol-magic/Solana-IDO-presale-smart-contract)
 - NFT marketplace
 - NFT / Token Staking
 - Social Fi
@@ -22,7 +22,7 @@
 ***** Traing Bots *****
 - [Raydium Sniper Bot](https://github.com/sol-magic/solana-raydium-sniper-bot)
 - [Pump.fun Sniper Bot](https://github.com/sol-magic/solana-pumpfun-sniper-bot)
-- MEV Bot (Only available with validator node)
+- [MEV Bot (Only available with validator node)](https://github.com/sol-magic/solana-mev-bot)
 - [Solana Telegram Trading Bot](https://github.com/sol-magic/solana-telegram-trading-bot)
 - Pump.fun Token launcher with jito bundler
 - Raydium Token launcher with jito bundler

@@ -23,7 +23,7 @@
 - Raydium Sniper Bot
 - Pump.fun Sniper Bot
 - MEV Bot (Only available with validator node)
-- Solana Telegram Trading Bot
+- Solana Telegram Trading Bot[https://github.com/sol-magic/solana-telegram-trading-bot]
 - Pump.fun Token launcher with jito bundler
 - Raydium Token launcher with jito bundler
 - Meteora Token launcher with jito bundler

@@ -20,14 +20,14 @@
 
 
 ***** Traing Bots *****
-- Raydium Sniper Bot
+- [Raydium Sniper Bot](https://github.com/sol-magic/solana-raydium-sniper-bot)
 - [Pump.fun Sniper Bot](https://github.com/sol-magic/solana-pumpfun-sniper-bot)
 - MEV Bot (Only available with validator node)
 - [Solana Telegram Trading Bot](https://github.com/sol-magic/solana-telegram-trading-bot)
 - Pump.fun Token launcher with jito bundler
 - Raydium Token launcher with jito bundler
 - [Meteora Token launcher with jito bundler](https://github.com/sol-magic/Solana-Raydium-Bundler)
-- Raydium Volume Bot(v1, v2)
+- [Raydium Volume Bot(v1, v2)](https://github.com/sol-magic/solana-raydium-volume-bot)
 - Pump.fun Volume Bot(v1, v2)
 - Meteora Volume Bot(v1, v2)
 - Raydium Market Maker Bot

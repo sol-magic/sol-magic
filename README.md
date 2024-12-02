@@ -34,7 +34,7 @@
 - Arbitrage Trading Bot (Only available with validator or yellowstone RPC)
 - Raydium Market Maker Bot
 - Pump.fun Market Maker Bot
-- Copy Trading Bot
+- [Copy Trading Bot](https://github.com/sol-magic/solana-copy-trading-bot)
 - Raydium Swap Parser
 - Jupiter Swap Parser
 - Orca Swap Parser

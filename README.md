@@ -21,12 +21,13 @@
 ***** Traing Bots *****
 - [Raydium Sniper Bot](https://github.com/sol-magic/solana-raydium-sniper-bot)
 - [Pump.fun Sniper Bot](https://github.com/sol-magic/solana-pumpfun-sniper-bot)
+- Meteora Sniper
 - [Solana Telegram Trading Bot](https://github.com/sol-magic/solana-telegram-trading-bot)
 - [Pump.fun Bundler](https://github.com/sol-magic/Solana-pumpfun-bundler)
 - [Raydium Bundler](https://github.com/sol-magic/Solana-Raydium-Bundler)
 - [Meteora Bundler](https://github.com/sol-magic/Solana-Meteora-Bundler)
-- [Raydium Volume Bot(v1, v2)](https://github.com/sol-magic/solana-raydium-volume-bot)
-- [Pump.fun Volume Bot(v1, v2)](https://github.com/sol-magic/Pumpfun-Volume-Bot)
+- [Raydium Volume Bot(v1, v2, v3, v4)](https://github.com/sol-magic/solana-raydium-volume-bot)
+- [Pump.fun Volume Bot(v1, v2, v3, v4)](https://github.com/sol-magic/Pumpfun-Volume-Bot)
 - [Meteora Volume Bot(v1, v2)](https://github.com/sol-magic/Meteora-Volume-Bot)
 - [Pump.fun Comment Bot](https://github.com/sol-magic/Pump.fun-comment-bot)
 - [Solana Wallet Tracking Bot](https://github.com/sol-magic/solana-wallet-tracking-bot)
